@@ -21,7 +21,7 @@ I'm Udaykiran Patnaik a Lead Computer Vision/AI Engineer, with total industry ex
 * Deep Learning
 * Machine Learning
 
-#### Top Technologies
+### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -32,7 +32,7 @@ I'm Udaykiran Patnaik a Lead Computer Vision/AI Engineer, with total industry ex
 - :paperclip: [My Resume/CV](https://github.com/Udaykiran87/resume/blob/main/Udaykiran_Patnaik_ComputerVision_Engineer.pdf)
 - :email: uday.patnaik@gmail.com -->
 
-#### Open Source Contributions
+### Open Source Contributions
 - [Openvslam](https://github.com/OpenVSLAM-Community/openvslam/tree/main)
 - [Openvslam-ros](https://github.com/OpenVSLAM-Community/openvslam_ros)
 
